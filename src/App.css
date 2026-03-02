@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+.stat-card {
+  transition: 0.3s ease;
+}
+
+.stat-card:hover {
+  transform: translateY(-8px);
+}
+
+.sidebar-link {
+  transition: 0.3s ease;
+}
+
+.sidebar-link:hover {
+  padding-left: 10px;
+  color: #0d6efd !important;
+}
