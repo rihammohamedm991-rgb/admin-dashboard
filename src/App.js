@@ -16,13 +16,13 @@ function App() {
           <h4 className="text-center mb-4 fw-bold">Admin Panel</h4>
           <ul className="nav flex-column">
             <li className="nav-item mb-3">
-              <a className="nav-link text-white sidebar-link" href="#">Dashboard</a>
+              <a className="nav-link text-white sidebar-link" href="https://example.com">Dashboard</a>
             </li>
             <li className="nav-item mb-3">
-              <a className="nav-link text-white sidebar-link" href="#">Products</a>
+              <a className="nav-link text-white sidebar-link" href="https://example.com">Products</a>
             </li>
             <li className="nav-item mb-3">
-              <a className="nav-link text-white sidebar-link" href="#">Orders</a>
+              <a className="nav-link text-white sidebar-link" href="https://example.com">Orders</a>
             </li>
           </ul>
         </div>
